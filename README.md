@@ -1,2 +1,2 @@
 # AnalyseIT
-A Marketing Analytics web application built by multiple linear regression model
+A Marketing Analytics Web Application researched and developed at Manukau Institute of Technology
