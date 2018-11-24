@@ -2,11 +2,11 @@
 A Marketing Analytics Web Application researched and developed at Manukau Institute of Technology
 
 ### Folders
-#### code
+### code
 API code for Firebase, just for demonstration purposes no API keys, passwords included
 
-#### design
+### design
 wireframes for the Web Application Tool
 
-### Future WOk
+### Future Work
 Implementation of Machine Learning Techniques such as Ensemble Gradient Boosting
